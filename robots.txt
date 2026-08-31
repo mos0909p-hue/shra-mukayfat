@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mos0909p-hue.github.io/shra-mukayfat/sitemap.xml
